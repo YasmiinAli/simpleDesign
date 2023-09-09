@@ -1,0 +1,14 @@
+.img1 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.background {
+    background-color: rgb(245, 144, 78);
+    height: 200px;
+    width: 200px ;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

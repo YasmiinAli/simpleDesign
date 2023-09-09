@@ -1,0 +1,18 @@
+.img1 {
+    height:100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.background:hover {
+    cursor: pointer;
+    background: rgb(155, 155, 214);
+}
+.background {
+    background-color: rgb(78, 198, 245);
+    height: 200px;
+    width: 200px ;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
